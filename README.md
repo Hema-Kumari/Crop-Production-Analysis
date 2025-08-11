@@ -41,8 +41,10 @@ Use filters to select specific states, districts, crops, or years.
 Hover over visuals for detailed tooltips.
 
 Drill through to district-level data for deeper insights.
+## Final Dashboard
+![image_alt](https://github.com/Hema-Kumari/Crop-Production-Analysis/blob/5cb881cb0df7abaca2f926e62cc566b8714ebfac/Screenshot%202025-08-11%20142225.png)
 
-# This Excel dashboard offers a pivot-based analysis of crop production trends by year, state, district, and crop type. It’s ideal for quick data exploration without advanced BI tools.
+# This Excel dashboard
 
 ## Key Features
 Interactive Slicers for:
@@ -69,6 +71,8 @@ Click slicers to filter the visuals instantly.
 Compare crop production across multiple years or states.
 
 Combine filters to analyze specific crops in particular regions.
+## Excel Dashboard
+![image_alt](https://github.com/Hema-Kumari/Crop-Production-Analysis/blob/5cb881cb0df7abaca2f926e62cc566b8714ebfac/Screenshot%202025-08-11%20142300.png)
 
 # 📊 Python Dashboard – Crop Production Analysis
 Purpose
